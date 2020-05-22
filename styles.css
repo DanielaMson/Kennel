@@ -1,6 +1,7 @@
 body {
     font-family: Arial;
     padding: 10px;
+    color: #3E5C76;
   }
 
   .col-md-6 {
@@ -23,6 +24,7 @@ body {
 
   .navbar{
     background-color: #EFEDE1 !important;
+    color: #102542 !important;
     position: sticky;
     top: 0px;
   }
